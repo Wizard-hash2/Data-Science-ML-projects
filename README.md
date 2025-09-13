@@ -35,28 +35,28 @@ This repository contains a variety of hands-on projects, datasets, and scripts t
 
 ## 📊 Datasets
 
-- **animal-word-trends-*.csv**  
+- **animal-word-trends.csv**  
   Datasets tracking the frequency of animal-related words in print over time.
 
-- **coffee-survey-*.csv**  
+- **coffee-survey.csv**  
   Survey results on coffee preferences and habits.
 
 - **deepest-diving-animals.csv**  
   Data on various animals and their maximum recorded dive depths.
 
-- **ebike-data-*.csv**  
+- **ebike-data.csv**  
   E-bike speed, distance, and stopping distance data for modeling and prediction.
 
 - **flights.csv**  
   Flight schedule and actual time data for delay analysis.
 
-- **healthy-food-survey-*.csv**  
+- **healthy-food-survey.csv**  
   Survey data on perceptions of healthy foods from both experts and the public.
 
 - **how-couples-met.csv**  
   Data on how couples met, categorized by decade and method.
 
-- **lion-*.csv**  
+- **lion.csv**  
   Data on lion attacks and belly sizes, possibly for ecological or behavioral analysis.
 
 - **male-elephant-tusk-size.csv**  
@@ -80,7 +80,7 @@ This repository contains a variety of hands-on projects, datasets, and scripts t
 
 1. **Clone the repository**  
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Wizard-hash2/Data-Science-ML-projects.git
    cd Data-Science-ML-projects
    ```
 
@@ -114,6 +114,8 @@ This repository contains a variety of hands-on projects, datasets, and scripts t
 
 ![alt text](image.png)
 ![alt text](image-1.png)
+
+
 --- 
 
 ## 📚 Learning Goals
